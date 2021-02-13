@@ -23,7 +23,7 @@
                                     <constraint firstAttribute="height" constant="50" id="CtD-by-d4A"/>
                                     <constraint firstAttribute="width" constant="100" id="Hnf-j8-bls"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="ButtonOne"/>
                                 <connections>
                                     <action selector="didTapButtonOne" destination="BYZ-38-t0r" eventType="touchUpInside" id="Eyc-Sk-K1i"/>
                                 </connections>
@@ -35,7 +35,7 @@
                                     <constraint firstAttribute="width" constant="100" id="02l-He-llz"/>
                                     <constraint firstAttribute="height" constant="50" id="ywe-Gj-NHO"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="ButtonTwo"/>
                                 <connections>
                                     <action selector="didTapButtonTwo" destination="BYZ-38-t0r" eventType="touchUpInside" id="MP1-Cx-QZ5"/>
                                 </connections>

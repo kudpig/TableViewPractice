@@ -10,7 +10,7 @@ import UIKit
 class MyTableViewController: UITableViewController {
 
     public var models: [ (String, (() -> Void))] = []
-    // ↑モデルの中身を文字とクロージャによる処理(引数なしからvoid型)としている。
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
